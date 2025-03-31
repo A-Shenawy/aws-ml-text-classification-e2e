@@ -69,3 +69,4 @@ The project involves setting up AWS services like S3 for storage and EC2 for com
 - Follow structured collaboration practices.
 
 
+ 
