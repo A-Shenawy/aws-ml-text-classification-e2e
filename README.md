@@ -6,13 +6,13 @@ This project aims to develop an end-to-end text classification system using AWS 
 ## Project Structure
 ```
 aws-text-classification/
-│── data/                  # Store dataset files (if not using AWS S3)
-│── models/                # Save trained models
+│── data/                  # Storing dataset files (if not using AWS S3)
+│── models/                # Saving trained models
 │── notebooks/             # Jupyter notebooks for development
 │── scripts/               # Python scripts for training, deployment, etc.
 │── pipeline/              # MLflow pipeline configurations
 │── docs/                  # Documentation files
-│── .gitignore             # Ignore unnecessary files
+│── .gitignore             # Ignoring unnecessary files
 │── README.md              # Project overview
 │── requirements.txt       # Required Python packages
 ```
