@@ -1,1 +1,12 @@
- 
+numpy
+pandas
+scikit-learn
+nltk
+xgboost
+boto3
+sagemaker
+fastapi
+uvicorn
+joblib
+requests
+python-multipart
