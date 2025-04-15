@@ -1,6 +1,6 @@
 # AWS-Based Text Classification System
 
-![AWS Text Classification]([https://github.com/A-Shenawy/aws-text-classification/blob/main/docs/E2E%20AWS.png](https://github.com/A-Shenawy/aws-ml-text-classification-e2e/blob/main/Final%20Diagram%20-%20AWS%20E2E%20Project.png)
+![AWS Text Classification]([https://github.com/A-Shenawy/aws-text-classification/blob/main/docs/E2E%20AWS.png](https://github.com/A-Shenawy/aws-ml-text-classification-e2e/blob/main/Final%20Diagram%20-%20AWS%20E2E%20Project.png))
 
 ## Project Overview
 This project aims to develop an end-to-end text classification system using AWS cloud services. The system includes data preprocessing, model training, pipeline integration, and deployment using AWS services such as S3, SageMaker, MLflow, and Lambda.
